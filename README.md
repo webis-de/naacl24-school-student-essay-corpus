@@ -11,6 +11,7 @@ Maja Stahl, Nadine Michel, Sebastian Kilsbach, Julian Schmidtke, Sara Rezat, and
 
 ## Bibtex
 
+```
 @inproceedings{stahl-etal-2024-school,
     title = "A School Student Essay Corpus for Analyzing Interactions of Argumentative Structure and Quality",
     author = "Stahl, Maja  and
@@ -31,3 +32,4 @@ Maja Stahl, Nadine Michel, Sebastian Kilsbach, Julian Schmidtke, Sara Rezat, and
     doi = "10.18653/v1/2024.naacl-long.145",
     pages = "2661--2674"
 }
+```
