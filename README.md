@@ -5,7 +5,7 @@ This repository contains the corpus and code for the paper "A School Student Ess
 [https://aclanthology.org/2024.naacl-long.145/](https://aclanthology.org/2024.naacl-long.145/)
 
 ## Version 2
-The paper used the first version of our annotations (arg-school-corpus-annotations.json). However, we later found some contradictory annotations, that were now removes with version 2 (arg-school-corpus-annotations-v2.json) 
+The paper used the first version of our annotations (arg-school-corpus-annotations.json). However, we later found some contradictory annotations, that are now removed in version 2 of our corpus (arg-school-corpus-annotations-v2.json) 
 
 #### How to build corpus-v2
 
