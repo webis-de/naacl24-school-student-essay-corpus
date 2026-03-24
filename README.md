@@ -4,6 +4,19 @@ This repository contains the corpus and code for the paper "A School Student Ess
 
 [https://aclanthology.org/2024.naacl-long.145/](https://aclanthology.org/2024.naacl-long.145/)
 
+## Version 2
+The paper used the first version of our annotations (arg-school-corpus-annotations.json). However, we later found some contradictory annotations, that were now removes with version 2 (arg-school-corpus-annotations-v2.json) 
+
+#### How to build corpus-v2
+
+- download `arg-school-corpus-annotations-v2.json` and `corpusbuilder_v2.py`
+- register at [https://fd-lex.uni-koeln.de/](https://fd-lex.uni-koeln.de/)
+- download "Scriptoria" corpus transcripts and datatable
+- save transcripts (8 pdf files) and datatable (one xlsx file) in ```.\transcripts``` directory (if needed paths can be adjusted at the top of the `corpusbuilder_v2.py` file)
+- install dependencies ```pip install pypdfium2 pandas```
+- execute ```python corpusbuilder_v2.py```
+- combined corpus is saved as `arg-school-corpus-created.json`
+
 ## Reference
 If you use our code or data, please cite the work as follows: 
 
